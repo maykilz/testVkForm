@@ -1,0 +1,7 @@
+label {
+    display: block;
+    padding-top: 15px;
+}
+select, input, textarea {
+    margin-top: 5px;
+}
